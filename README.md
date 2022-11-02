@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🎓 I'm a 5th year PhD candidate studying the atmospheric chemistry of wildfire smoke
 - 🔭 I’m currently working on satellite-derived HONO/NO2 and its relationship with fire radiative power
 - 🌱 I’m currently learning machine learning and SQL
-- 💻 I am interested in a data science or machine learning summer internship for 2023
+- 💻 I am interested in data science, machine learning, or research summer internships for 2023
 - 📌 My pinned repositories are team projects I have contributed to
 - 😄 Pronouns: she/hers
 - ⚡ Fun fact: I spend my free time either cross-stitching, singing in the department band, or playing softball!
