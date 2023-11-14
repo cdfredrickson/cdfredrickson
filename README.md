@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I'm a 5th year PhD candidate studying the atmospheric chemistry of wildfire smoke
-- 🔭 I’m currently working on satellite-derived HONO/NO2 and its relationship with fire radiative power
+- 🎓 I'm a 6th year PhD candidate studying the atmospheric chemistry of wildfire smoke
+- 🔭 I’m currently working on modeling the Australian Black Summer wildfires with the MUSICA model
 - 🌱 I’m currently learning machine learning and SQL
 - 💻 I am interested in data science, machine learning, and research
 - 📌 My pinned repositories are team projects I have contributed to
